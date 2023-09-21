@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as s,c as t,d as o}from"./app-451b335f.js";const c={},_=o("p",null,"功能详情...",-1),n=[_];function r(a,l){return s(),t("div",null,n)}const i=e(c,[["render",r],["__file","Sass.html.vue"]]);export{i as default};

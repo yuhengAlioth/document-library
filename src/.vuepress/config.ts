@@ -10,7 +10,8 @@ import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
-  base: "/",
+  // base: "/",
+  base: "/document-library/",
 
   lang: "zh-CN",
   title: "七星玉蘅的知识文档库",
